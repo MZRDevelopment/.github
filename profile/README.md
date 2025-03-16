@@ -20,6 +20,6 @@ MZR Development, sürekli büyüyen ve gelişen bir topluluktur. Hep birlikte bi
 Yeni projelere göz atmak, yardım almak veya almak, etkinliklerimize katılmak ve topluluğumuzla iletişime geçmek için MZR Development’ı keşfedin!
 
 - [Topluluğumuza katılın](https://discord.gg/mzrdev)
-- - [Forumumuza göz atın](https://mzrdev.com.tr/forum)
+- [Forumumuza göz atın](https://mzrdev.com.tr/forum)
 - [Proje Paylaşım Alanına Göz Atın](https://mzrdev.com.tr/projects)
 - [Etkinliklerimizi Takip Edin](https://www.mzrdev.com.tr/announcements)
